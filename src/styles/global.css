@@ -65,3 +65,8 @@ blockquote {
 	margin: 0px;
 	font-style: italic;
 }
+
+/* Hero Section */
+hero {
+	display: flex;
+}
