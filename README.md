@@ -18,34 +18,3 @@ $ npm install && npm run dev
 
 Enjoy!
 
-## Project Structure
-
--public
--src
-  |-components
-        |-BaseHead.astro
-        |-Footer.astro
-        |-Header.astro
-        |-HeaderLink.astro
-  |-layouts
-        |-BlogPost.astro
-  |-pages
-      |-blog
-        |-about.md
-        |-blog.astro
-        |-index.astro
-        |-rss.xml.js
-  |-styles
-        |-global.css
-config.ts
-env.d.ts
-.gitignore
-astro.config.mjs
-package.json
-tsconfig.json
-README.md
-
-(Subject to change)
-      
-
-# Thank you!
